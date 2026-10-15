@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6fc95751c8.lichengrc.cn/sitemap.xml
